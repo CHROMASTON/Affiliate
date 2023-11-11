@@ -1,0 +1,9 @@
+.nav{
+    background: linear-gradient(2deg, #41464b, #6c757d);
+    border-radius: 2rem;
+    box-shadow: 2px 12px 13px 0px;
+    border:  4px solid #ffffffd9;
+   opacity: 0.8;
+    margin-top: 0.5rem;
+    margin-inline: 1rem;
+}
